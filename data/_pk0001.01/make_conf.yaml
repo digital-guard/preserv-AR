@@ -1,0 +1,31 @@
+pack_id: 1.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=4326
+
+files:
+    -
+        p:    1
+        file: 46329bbdca69ece2efb6be39f840d8c87f6b6472f93257aad87588598787ba95.pbf
+        name: Dados OpenStreetMap
+
+license_evidences:
+    definition: [ODbL-1.0, odbl, http://www.opendefinition.org/licenses/odc-odbl]
+    uri_evidency: http://web.archive.org/web/20220418172356/https://opendatacommons.org/licenses/odbl/
+
+layers:
+  geoaddress:
+    subtype: full
+    method: osm2sql
+    file: 1
+    orig_filename: argentina-latest.osm.pbf
+  via:
+    subtype: full
+    method: osm2sql
+    file: 1
+    orig_filename: argentina-latest.osm.pbf
+
+openstreetmap:
+    file: 1
+    method: none
