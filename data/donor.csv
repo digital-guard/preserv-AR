@@ -1,2 +1,2 @@
-local_id,scope_osm_id,kx_scope_label,shortName,vat_id,legalName,wikidata_id,url
-1,286393,INT,OSM,wd:P2657:365969219933-54,OpenStreetMap Foundation,6542248,https://www.osmfoundation.org/
+local_id,scope_label,shortName,vat_id,legalName,wikidata_id,url
+1,INT,OSM,wd:P2657:365969219933-54,OpenStreetMap Foundation,6542248,https://www.osmfoundation.org/
