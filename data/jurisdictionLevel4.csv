@@ -1,5 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-286393,32,0,Argentina,INT,AR,414,ar,AR,54,"{""area_sr"": 278.51197, ""area_km2"": 2782944, ""language"": ""es"", ""fat_deg_m"": 0.0000100, ""official_name"": ""República Argentina"", ""side_estim_km"": 1668.2, ""iso3166_alpha3"": ""ARG"", ""side_estim_deg"": 16.6887, ""elongation_factor"": 3.05}"
 1632167,32,44754,"Buenos Aires",AR,B,44754,buenos.aires,AR-B,,
 153545,32,44756,Catamarca,AR,K,44756,catamarca,AR-K,,
 153554,32,44757,Chaco,AR,H,44757,chaco,AR-H,,
