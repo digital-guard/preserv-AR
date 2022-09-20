@@ -1,2 +1,26 @@
-osm_id,parent_id,jurisd_base_id,jurisd_local_id,name,name_en,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,phone_prefix,info
-
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+286393,32,0,Argentina,INT,AR,414,ar,AR,54,"{""area_sr"": 278.51197, ""area_km2"": 2782944, ""language"": ""es"", ""fat_deg_m"": 0.0000100, ""official_name"": ""República Argentina"", ""side_estim_km"": 1668.2, ""iso3166_alpha3"": ""ARG"", ""side_estim_deg"": 16.6887, ""elongation_factor"": 3.05}"
+1632167,32,44754,"Buenos Aires",AR,B,44754,buenos.aires,AR-B,,
+153545,32,44756,Catamarca,AR,K,44756,catamarca,AR-K,,
+153554,32,44757,Chaco,AR,H,44757,chaco,AR-H,,
+153548,32,45007,Chubut,AR,U,45007,chubut,AR-U,,
+3082668,32,1486,"Ciudad Autónoma de Buenos Aires",AR,C,1486,ciudad.autonoma.buenos.aires,AR-C,,
+153552,32,44758,Corrientes,AR,W,44758,corrientes,AR-W,,
+3592494,32,44759,Córdoba,AR,X,44759,cordoba,AR-X,,
+153551,32,44762,"Entre Ríos",AR,E,44762,entre.rios,AR-E,,
+2849847,32,44761,Formosa,AR,P,44761,formosa,AR-P,,
+153556,32,44764,Jujuy,AR,Y,44764,jujuy,AR-Y,,
+153541,32,44795,"La Pampa",AR,L,44795,la.pampa,AR-L,,
+153536,32,44796,"La Rioja",AR,F,44796,la.rioja,AR-F,,
+153540,32,44797,Mendoza,AR,M,44797,mendoza,AR-M,,
+153553,32,44798,Misiones,AR,N,44798,misiones,AR-N,,
+1606727,32,44800,Neuquén,AR,Q,44800,neuquen,AR-Q,,
+153547,32,44802,"Río Negro",AR,R,44802,rio.negro,AR-R,,
+2405230,32,44803,Salta,AR,A,44803,salta,AR-A,,
+153539,32,44805,"San Juan",AR,J,44805,san.juan,AR-J,,
+153538,32,44818,"San Luis",AR,D,44818,san.luis,AR-D,,
+153549,32,44821,"Santa Cruz",AR,Z,44821,santa.cruz,AR-Z,,
+153543,32,44823,"Santa Fe",AR,S,44823,santa.fe,AR-S,,
+153544,32,44827,"Santiago del Estero",AR,G,44827,santiago.estero,AR-G,,
+153550,32,44832,"Tierra del Fuego",AR,V,44832,tierra.fuego,AR-V,,
+153558,32,44829,Tucumán,AR,T,44829,tucuman,AR-T,,
