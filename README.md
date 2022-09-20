@@ -1,7 +1,7 @@
 # preserv-AR
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Argentina**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Argentina se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**AR**](https://en.wikipedia.org/wiki/ISO_3166-2:AR) y el número [**32**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q414](http://wikidata.org/entity/Q414); en OpenStreetMap el identificador de [*relación* 286393](http://osm.org/relation/286393).
+A Argentina se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**AR**](https://en.wikipedia.org/wiki/ISO_3166-2:AR) y el número [**32**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](https://wikidata.org) el identificador [Q414](http://wikidata.org/entity/Q414); en [OpenStreetMap](https://osm.org) el identificador de [*relación* 286393](http://osm.org/relation/286393).
 
 
 ## Organización territorial
