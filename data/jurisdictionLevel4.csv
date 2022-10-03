@@ -1,25 +1,25 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1632167,32,44754,"Buenos Aires",AR,B,44754,buenos.aires,AR-B,,
-153545,32,44756,Catamarca,AR,K,44756,catamarca,AR-K,,
-153554,32,44757,Chaco,AR,H,44757,chaco,AR-H,,
-153548,32,45007,Chubut,AR,U,45007,chubut,AR-U,,
-3082668,32,1486,"Ciudad Autónoma de Buenos Aires",AR,C,1486,ciudad.autonoma.buenos.aires,AR-C,,
-153552,32,44758,Corrientes,AR,W,44758,corrientes,AR-W,,
-3592494,32,44759,Córdoba,AR,X,44759,cordoba,AR-X,,
-153551,32,44762,"Entre Ríos",AR,E,44762,entre.rios,AR-E,,
-2849847,32,44761,Formosa,AR,P,44761,formosa,AR-P,,
-153556,32,44764,Jujuy,AR,Y,44764,jujuy,AR-Y,,
-153541,32,44795,"La Pampa",AR,L,44795,la.pampa,AR-L,,
-153536,32,44796,"La Rioja",AR,F,44796,la.rioja,AR-F,,
-153540,32,44797,Mendoza,AR,M,44797,mendoza,AR-M,,
-153553,32,44798,Misiones,AR,N,44798,misiones,AR-N,,
-1606727,32,44800,Neuquén,AR,Q,44800,neuquen,AR-Q,,
-153547,32,44802,"Río Negro",AR,R,44802,rio.negro,AR-R,,
-2405230,32,44803,Salta,AR,A,44803,salta,AR-A,,
-153539,32,44805,"San Juan",AR,J,44805,san.juan,AR-J,,
-153538,32,44818,"San Luis",AR,D,44818,san.luis,AR-D,,
-153549,32,44821,"Santa Cruz",AR,Z,44821,santa.cruz,AR-Z,,
-153543,32,44823,"Santa Fe",AR,S,44823,santa.fe,AR-S,,
-153544,32,44827,"Santiago del Estero",AR,G,44827,santiago.estero,AR-G,,
-153550,32,44832,"Tierra del Fuego",AR,V,44832,tierra.fuego,AR-V,,
-153558,32,44829,Tucumán,AR,T,44829,tucuman,AR-T,,
+1632167,32,44754,"Buenos Aires",AR,B,44754,buenos.aires,AR-B,,"{""area_sr"": 30.90594, ""area_km2"": 306459, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 553.6, ""side_estim_deg"": 5.5593}"
+153545,32,44756,Catamarca,AR,K,44756,catamarca,AR-K,,"{""area_sr"": 9.25973, ""area_km2"": 101517, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 318.6, ""side_estim_deg"": 3.043, ""elongation_factor"": 2.48}"
+153554,32,44757,Chaco,AR,H,44757,chaco,AR-H,,"{""area_sr"": 9.03404, ""area_km2"": 99865, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 316, ""side_estim_deg"": 3.0057, ""elongation_factor"": 2.19}"
+153548,32,45007,Chubut,AR,U,45007,chubut,AR-U,,"{""area_sr"": 28.86863, ""area_km2"": 257842, ""fat_deg_m"": 0.0000106, ""side_estim_km"": 507.8, ""side_estim_deg"": 5.373, ""elongation_factor"": 1.84}"
+3082668,32,1486,"Ciudad Autónoma de Buenos Aires",AR,C,1486,ciudad.autonoma.buenos.aires,AR-C,,"{""area_sr"": 0.0202, ""area_km2"": 206, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 14.3, ""side_estim_deg"": 0.1421, ""elongation_factor"": 2.01}"
+153552,32,44758,Corrientes,AR,W,44758,corrientes,AR-W,,"{""area_sr"": 8.24538, ""area_km2"": 89229, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 298.7, ""side_estim_deg"": 2.8715, ""elongation_factor"": 2.27}"
+3592494,32,44759,Córdoba,AR,X,44759,cordoba,AR-X,,"{""area_sr"": 15.76283, ""area_km2"": 164853, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 406, ""side_estim_deg"": 3.9702, ""elongation_factor"": 1.31}"
+153551,32,44762,"Entre Ríos",AR,E,44762,entre.rios,AR-E,,"{""area_sr"": 7.47513, ""area_km2"": 78264, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 279.8, ""side_estim_deg"": 2.7341, ""elongation_factor"": 1.51}"
+2849847,32,44761,Formosa,AR,P,44761,formosa,AR-P,,"{""area_sr"": 6.74161, ""area_km2"": 75442, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 274.7, ""side_estim_deg"": 2.5965, ""elongation_factor"": 2.78}"
+153556,32,44764,Jujuy,AR,Y,44764,jujuy,AR-Y,,"{""area_sr"": 4.70046, ""area_km2"": 53240, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 230.7, ""side_estim_deg"": 2.1681, ""elongation_factor"": 2.09}"
+153541,32,44795,"La Pampa",AR,L,44795,la.pampa,AR-L,,"{""area_sr"": 14.53198, ""area_km2"": 143280, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 378.5, ""side_estim_deg"": 3.8121, ""elongation_factor"": 1.5}"
+153536,32,44796,"La Rioja",AR,F,44796,la.rioja,AR-F,,"{""area_sr"": 8.52533, ""area_km2"": 91453, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 302.4, ""side_estim_deg"": 2.9198, ""elongation_factor"": 1.89}"
+153540,32,44797,Mendoza,AR,M,44797,mendoza,AR-M,,"{""area_sr"": 14.65731, ""area_km2"": 149059, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 386.1, ""side_estim_deg"": 3.8285, ""elongation_factor"": 1.76}"
+153553,32,44798,Misiones,AR,N,44798,misiones,AR-N,,"{""area_sr"": 2.71755, ""area_km2"": 29918, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 173, ""side_estim_deg"": 1.6485, ""elongation_factor"": 2.77}"
+1606727,32,44800,Neuquén,AR,Q,44800,neuquen,AR-Q,,"{""area_sr"": 9.77163, ""area_km2"": 94421, ""fat_deg_m"": 0.0000102, ""side_estim_km"": 307.3, ""side_estim_deg"": 3.126, ""elongation_factor"": 2.2}"
+153547,32,44802,"Río Negro",AR,R,44802,rio.negro,AR-R,,"{""area_sr"": 21.40187, ""area_km2"": 201750, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 449.2, ""side_estim_deg"": 4.6262, ""elongation_factor"": 2.25}"
+2405230,32,44803,Salta,AR,A,44803,salta,AR-A,,"{""area_sr"": 13.81867, ""area_km2"": 155351, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 394.1, ""side_estim_deg"": 3.7173, ""elongation_factor"": 2.68}"
+153539,32,44805,"San Juan",AR,J,44805,san.juan,AR-J,,"{""area_sr"": 8.3068, ""area_km2"": 88070, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 296.8, ""side_estim_deg"": 2.8822, ""elongation_factor"": 2.21}"
+153538,32,44818,"San Luis",AR,D,44818,san.luis,AR-D,,"{""area_sr"": 7.36191, ""area_km2"": 75642, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 275, ""side_estim_deg"": 2.7133, ""elongation_factor"": 1.62}"
+153549,32,44821,"Santa Cruz",AR,Z,44821,santa.cruz,AR-Z,,"{""area_sr"": 29.94946, ""area_km2"": 244499, ""fat_deg_m"": 0.0000111, ""side_estim_km"": 494.5, ""side_estim_deg"": 5.4726, ""elongation_factor"": 1.93}"
+153543,32,44823,"Santa Fe",AR,S,44823,santa.fe,AR-S,,"{""area_sr"": 12.56085, ""area_km2"": 133330, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 365.1, ""side_estim_deg"": 3.5441, ""elongation_factor"": 2.06}"
+153544,32,44827,"Santiago del Estero",AR,G,44827,santiago.estero,AR-G,,"{""area_sr"": 12.52753, ""area_km2"": 136796, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 369.9, ""side_estim_deg"": 3.5394, ""elongation_factor"": 1.29}"
+153550,32,44832,"Tierra del Fuego",AR,V,44832,tierra.fuego,AR-V,,"{""area_sr"": 2.85801, ""area_km2"": 20689, ""fat_deg_m"": 0.0000118, ""side_estim_km"": 143.8, ""side_estim_deg"": 1.6906, ""elongation_factor"": 4.23}"
+153558,32,44829,Tucumán,AR,T,44829,tucuman,AR-T,,"{""area_sr"": 2.05701, ""area_km2"": 22632, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 150.4, ""side_estim_deg"": 1.4342, ""elongation_factor"": 1.88}"
