@@ -1,2 +1,4 @@
 pack_id,donor_id,pack_count,lst_vers,donor_label,user_resp,accepted_date,scope,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
 00101,1,1,001,OSM,claiton,2022-04-18,AR,"Planet OSM, todos os dados ",(self),2022-04-17,yes,ODbL,site,http://download.geofabrik.de/south-america/argentina-latest.osm.pbf,no,working-makefile,
+00201,2,1,001,AR-Balcarce,luis,2022-03-11,AR-Balcarce,"Via com numero predial inicial e final por segmento",(self),2022,no,blank,whatsapp,(anexo de whatsapp),no,1,
+00301,3,1,001,AR-CoronelSuarez,luis,2022-05-04,AR-CoronelSuarez,"Parcel full e outros dados relevantes",(self),2022,no,blank,site,http://www.coronelsuarezgis.gob.ar/,no,1,
