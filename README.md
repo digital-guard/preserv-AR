@@ -6,6 +6,24 @@ A Argentina se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.o
 
 ## Organización territorial
 
+El territorio nacional y sus subdivisiones representam jurisdiciones:
+
+- El país está dividido en **23 provincias**, administrados por un gobernador electo, **y la Ciudad Autónoma de Buenos Aires** (Capital y sede del Gobierno federal).
+  - Las provincias tienen autonomía plena, forman parte de la Nación y son jurídicamente preexistentes a ella, según los principios del federalismo establecidos en la Constitución Nacional. Jurídicamente Argentina se constituyó como una federación de provincias y mantiene por mandato constitucional los nombres históricos de Provincias Unidas del Río de la Plata y Confederación Argentina, además de República Argentina (el único usual).
+  - El gobierno provincial tiene un poder ejecutivo encabezado por el gobernador, un poder legislativo conformado por la legislatura provincial y un poder judicial.
+- Las provincias se subdividen en **529 departamentos/comunas/partidos** (379 departamentos + 135 partidos + 15 comunas).
+  - Se caracterizan por no tener gobierno propio como sí lo tienen las provincias y los municipios. 
+  - Cumplen una función de división catastral y estadística, y en algunas provincias también son utilizadas como distritos electorales para determinar representantes a las legislaturas provinciales y nacional o como unidades de descentralización de diversos órganos provinciales como la policía y el Poder Judicial. 
+  - Fueron creadas por los gobiernos provinciales, por el gobierno nacional, al momento de ser las provincias territorios nacionales o, en algunos casos, por el gobierno virreinal en épocas anteriores a la independencia nacional. Actualmente la creación de nuevas subdivisiones corresponde a cada gobierno provincial, variando en metodología y complejidad.
+  - En general, dentro de un departamento hay una o varias localidades pobladas que tienen su propio gobierno sea este municipal, comisión de fomento, etc. Una de ellas es denominada cabecera del departamento que, llegado el caso, sirve de asiento a las dependencias administrativas correspondientes.
+  - En las provincias de Mendoza, San Juan y La Rioja los municipios tiene sus límites coincidentes con los departamentos. La cabecera del departamento es la localidad donde se ubica la sede del gobierno municipal.
+  - La Provincia de Buenos Aires, se divide administrativamente en 135 partidos. De manera similar a las provincias de La Rioja, Mendoza y San Juan, cada partido contiene a un solo municipio. La denominación surge porque entre 1821 y 1854 el territorio bonaerense estuvo administrado por jueces de paz y su jurisdicción se correspondía con un partido judicial.
+  - Las comunas son las unidades de gestión política y administrativa descentralizada de la ciudad, tienen competencia territorial, del patrimonio de su territorio y con personería jurídica propia. Cumplen además, una función electoral al momento de elegir funcionarios comunales y nacionales, reemplazando a las antiguas secciones electorales. Agrupan también a los barrios oficiales de la ciudad. Fueron establecidas en 1996, al sancionarse la Constitución de la Ciudad de Buenos Aires, reglamentadas en 2005 a través de la Ley 1777 y sus límites fijados en 2008 por la Ley 2650. Las juntas comunales deben ser integradas por siete miembros cada una y sus elecciones se llevan a cabo cada 4 años desde 2011.
+- **Las entidades de tercer nivel son los municipios** (1793).
+  - Las provincias de Entre Ríos y Santa Fe, dividen sus departamentos en distritos y la de Córdoba en pedanías.
+  - El municipio es la entidad administrativa generalmente asociada a una ciudad. Está compuesto por un territorio claramente definido denominado ejido municipal y la población que lo habita. Su gobierno se denomina municipalidad cuyo poder ejecutivo es el intendente y el legislativo, el concejo deliberante.
+  - Si bien las relaciones de inclusión entre departamentos y provincias es perfecto (no hay un departamento que se desarrollen en más de una provincia) esta relación entre municipio y departamentos no lo es. Existiendo unos pocos municipios que se desarrollan en más de un departamento.
+  - Actualmente las pautas generales para la divisiones del territorio de las provincias y la fijación de los límites de los municipios está establecida en las constituciones provinciales y se delega al Poder Legislativo la fijación definitiva de límites.
 
 ## Organización de este repositorio
 
@@ -18,8 +36,6 @@ Los metadatos se organizaron de la siguiente manera, en la carpeta [`/data`](./d
    * [`donor.csv`](./data/donor.csv): donantes de paquetes de datos. Metadatos de las instituciones que brindan datos oficiales. (pendente)
    * [`donatedPack.csv`](./data/donatedPack.csv): descriptores de los archivos donados. (pendente)
    * *paquetes* (carpetas `_packXX`): *hash*  y otros descriptores de archivos almacenados externamente, así como `makefile` y otros descriptores de proceso para descomprimir estos archivos y llevarlos a la base de datos (PostregSQL)... 
-
-* [`/data/_out`](./data/out): resultados generados por el sistema (**salida**), es decir, metadatos creados a partir de los algoritmos y estadísticas aplicados a los datos de `_pack`.
 
 * [`/src`](./src#readme): reservado a código fuente de algoritmos SQL, *makefile* y otros de uso local. Ver código fuente general em [Preserv](http://git.digital-guard.org/preserv).
 
