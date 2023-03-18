@@ -6,13 +6,14 @@ A Argentina se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.o
 
 ## Organización territorial
 
-El territorio nacional y sus subdivisiones representam jurisdiciones:
+El territorio nacional y sus subdivisiones representan jurisdicciones:
 
 - El país está dividido en **23 provincias**, administrados por un gobernador electo, **y la Ciudad Autónoma de Buenos Aires** (Capital y sede del Gobierno federal).
   - Las provincias tienen autonomía plena, forman parte de la Nación y son jurídicamente preexistentes a ella, según los principios del federalismo establecidos en la Constitución Nacional. Jurídicamente Argentina se constituyó como una federación de provincias y mantiene por mandato constitucional los nombres históricos de Provincias Unidas del Río de la Plata y Confederación Argentina, además de República Argentina (el único usual).
   - El gobierno provincial tiene un poder ejecutivo encabezado por el gobernador, un poder legislativo conformado por la legislatura provincial y un poder judicial.
-- Las provincias se subdividen en **529 departamentos/comunas/partidos** (379 departamentos + 135 partidos + 15 comunas).
-  - Se caracterizan por no tener gobierno propio como sí lo tienen las provincias y los municipios. 
+- Las provincias se subdividen en **529 departamentos/partidos/comunas** (379 departamentos + 135 partidos + 15 comunas), que contienen 2.278 municipios.
+  - Cada municipio está compuesto por un *departamento ejecutivo*, encabezado por un intendente municipal y un *departamento deliberativo* o *concejo deliberativo*, formado por concejales. El intendente y los concejales son elegidos por un período de 4 años. 
+  - Corresponde al departamento deliberativo de las municipalidades nombrar las calles.
   - Cumplen una función de división catastral y estadística, y en algunas provincias también son utilizadas como distritos electorales para determinar representantes a las legislaturas provinciales y nacional o como unidades de descentralización de diversos órganos provinciales como la policía y el Poder Judicial. 
   - Fueron creadas por los gobiernos provinciales, por el gobierno nacional, al momento de ser las provincias territorios nacionales o, en algunos casos, por el gobierno virreinal en épocas anteriores a la independencia nacional. Actualmente la creación de nuevas subdivisiones corresponde a cada gobierno provincial, variando en metodología y complejidad.
   - En general, dentro de un departamento hay una o varias localidades pobladas que tienen su propio gobierno sea este municipal, comisión de fomento, etc. Una de ellas es denominada cabecera del departamento que, llegado el caso, sirve de asiento a las dependencias administrativas correspondientes.
@@ -24,6 +25,8 @@ El territorio nacional y sus subdivisiones representam jurisdiciones:
   - El municipio es la entidad administrativa generalmente asociada a una ciudad. Está compuesto por un territorio claramente definido denominado ejido municipal y la población que lo habita. Su gobierno se denomina municipalidad cuyo poder ejecutivo es el intendente y el legislativo, el concejo deliberante.
   - Si bien las relaciones de inclusión entre departamentos y provincias es perfecto (no hay un departamento que se desarrollen en más de una provincia) esta relación entre municipio y departamentos no lo es. Existiendo unos pocos municipios que se desarrollan en más de un departamento.
   - Actualmente las pautas generales para la divisiones del territorio de las provincias y la fijación de los límites de los municipios está establecida en las constituciones provinciales y se delega al Poder Legislativo la fijación definitiva de límites.
+ - Argentina cuenta con el **Código Postal Argentino (CPA)**, que es un sistema alfanumérico compuesto por: 1 letra que identifica la provincia (ISO 3166-2:AR.); 4 dígitos que identifican localidad, ciudad o distrito; y 3 letras que identifican la cara de manzana.
+	 - El CPA es mantenido por la empresa pública *Correo Oficial de la República Argentina* (también denominada Correo Argentino), dependiente de la Secretaría de Innovación Pública, bajo la Jefatura de Gabinete de la Nación. 
 
 ## Organización de este repositorio
 
