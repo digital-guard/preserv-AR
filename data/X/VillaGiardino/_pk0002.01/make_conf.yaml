@@ -1,0 +1,67 @@
+pack_id: 2.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=22174
+
+files:
+- file: d2467a31bb75e253854fe98a568b8e28f9f876d8fe1fc1fc4e085834c7616e28.zip
+  name: Villa_Giardino_Barrios.zip
+  p: 1
+- file: 4b55b325c5a7a236179d6f073b6ed2f4e40f8faf9fcad63e63589b1cd63b804b.zip
+  name: Villa_Giardino_Parcelas.zip
+  p: 2
+- file: e506a4881179c639df2d0df8076324d6ee13252f126ebd93bbca403348ae1992.zip
+  name: Villa_Giardino_Ejes_de_Calle.zip
+  p: 3
+
+layers:
+
+  nsvia:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_select: ['nombre AS nsvia_name']
+    orig_filename: Villa_Giardino_Barrios
+    codec: SHP~Latin1
+    standardized_fields:
+     - 
+      name: nombre
+      standard: nsvia_name
+
+  parcel:
+    subtype: full
+    method: shp2sql
+    file: 2
+    sql_select: ['ubicacion','barrio as ns_name','calle = via_name','nro_puerta = howse_number']
+    orig_filename: Villa_Giardino_Parcelas
+    codec: SHP~Latin1
+    standardized_fields:
+     - 
+      name: barrio
+      standard: ns_name
+     - 
+      name: calle
+      standard: via_name
+     - 
+      name: nro_puerta
+      standard: howse_number
+
+
+  via:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_select: ['nombre_cal = via_name','num_desde','num_hasta','tipo']
+    orig_filename: Villa_Giardino_Ejes_de_Calle
+    codec: SHP~Latin1
+    standardized_fields:
+     - 
+      name: nombre_cal
+      standard: via_name
+    other_fields:
+     - 
+      name: num_desde
+     - 
+      name: num_hasta
+
