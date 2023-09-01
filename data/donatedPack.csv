@@ -1,8 +1,8 @@
-pack_id,donor_id,pack_count,lst_vers,donor_label,user_resp,accepted_date,scope,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
-00101,1,1,001,OSM,claiton,2022-04-18,AR,"Planet OSM, todos os dados ",(self),2022-04-17,yes,odbl-1.0,site,http://download.geofabrik.de/south-america/argentina-latest.osm.pbf,no,working-makefile,
-00201,2,1,001,X-VillaGiardino,carlos,2022-03-07,AR-X-VillaGiardino,"Parcelas, Calles, Barrios, otras.",(self),2022,no,cc0,site,https://www.mapascordoba.gob.ar/#/mapas,no,working-sha56sum,
-00301,3,1,001,X-JesusMaria,carlos,2022-03-07,AR-X-JesusMaria,"Parcelas, Calles, Manzanas, Barrios, otras.",(self),2022,no,cc0,site,https://www.mapascordoba.gob.ar/#/mapas,no,working-sha256sum,
-00401,4,1,001,B-CoronelSuarez,carlos,2022-05-04,AR-B-CoronelSuarez,"Catastro, Barrios, Calles, otros.",(self),2022,no,cc0,site,http://www.coronelsuarezgis.gob.ar/,no,working-sha256sum,
-00501,5,1,001,B-SanMiguel,carlos,2022-03-09,AR-B-SanMiguel,"Geoaddress, calles.",(self),2022,no,cc0,site,https://mapas.msm.gov.ar/portal/home/gallery.html,no,working-sha256sum,
-00601,6,1,001,B-Pergamino,carlos,2022-05-04,AR-B-Pergamino,"Catastro, Calles, Buildings, otros.",(self),2022,no,cc0,site,https://ide.pergamino.gob.ar/,no,working-sha256sum,
-00701,7,1,001,B-Olavarria,carlos,2021-11-23,AR-B-Olavarria,"Parcelas, red vial, otras.",(self),2021,no,cc0,site,https://mapas.olavarria.gov.ar,no,working-sha256sum,
+pack_id,donor_id,pack_count,lst_vers,user_resp,accepted_date,scope,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
+00101,1,1,001,claiton,2022-04-18,AR,"Planet OSM, todos os dados ",(self),2022-04-17,yes,odbl-1.0,site,http://download.geofabrik.de/south-america/argentina-latest.osm.pbf,no,working-makefile,
+00201,2,1,001,carlos,2022-03-07,AR-X-VillaGiardino,"Parcelas, Calles, Barrios, otras.",(self),2022,no,cc0,site,https://www.mapascordoba.gob.ar/#/mapas,no,working-sha56sum,
+00301,3,1,001,carlos,2022-03-07,AR-X-JesusMaria,"Parcelas, Calles, Manzanas, Barrios, otras.",(self),2022,no,cc0,site,https://www.mapascordoba.gob.ar/#/mapas,no,working-sha256sum,
+00401,4,1,001,carlos,2022-05-04,AR-B-CoronelSuarez,"Catastro, Barrios, Calles, otros.",(self),2022,no,cc0,site,http://www.coronelsuarezgis.gob.ar/,no,working-sha256sum,
+00501,5,1,001,carlos,2022-03-09,AR-B-SanMiguel,"Geoaddress, calles.",(self),2022,no,cc0,site,https://mapas.msm.gov.ar/portal/home/gallery.html,no,working-sha256sum,
+00601,6,1,001,carlos,2022-05-04,AR-B-Pergamino,"Catastro, Calles, Buildings, otros.",(self),2022,no,cc0,site,https://ide.pergamino.gob.ar/,no,working-sha256sum,
+00701,7,1,001,carlos,2021-11-23,AR-B-Olavarria,"Parcelas, red vial, otras.",(self),2021,no,cc0,site,https://mapas.olavarria.gov.ar,no,working-sha256sum,

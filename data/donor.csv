@@ -1,8 +1,8 @@
-local_id,scope_label,shortName,vat_id,legalName,wikidata_id,url
-1,AR,OSM,wd:P2657:365969219933-54,OpenStreetMap Foundation,6542248,https://www.osmfoundation.org/
-2,AR-X-VillaGiardino,X-VillaGiardino,cuit:30-99911166-8,Municipalidad de Villa Giardino,839912,https://www.villagiardino.gob.ar/
-3,AR-X-JesusMaria,X-JesusMaria,cuit:30-99912220-1,Municipalidad De Jesus Maria,48288,https://www.jesusmaria.gov.ar/
-4,AR-B-CoronelSuarez,B-CoronelSuarez,cuit:30-99900223-0,Municipalidad De Coronel Suarez,269509,https://www.coronelsuarez.gob.ar/
-5,AR-B-SanMiguel,B-SanMiguel,cuit:30-68161778-3,Municipalidad De San Miguel,1967802,https://www.msm.gov.ar/
-6,AR-B-Pergamino,B-Pergamino,cuit:30-99903451-5,Municipalidad De Pergamino,921239,https://www.pergamino.gob.ar/
-7,AR-B-Olavarria,B-Olavarria,cuit:30-99903413-2,Municipalidad De Olavarria,1004149,https://www.olavarria.gov.ar/
+local_id,scope_label,vat_id,legalName,wikidata_id,url
+1,AR,wd:P2657:365969219933-54,OpenStreetMap Foundation,6542248,https://www.osmfoundation.org/
+2,AR-X-VillaGiardino,cuit:30-99911166-8,Municipalidad de Villa Giardino,839912,https://www.villagiardino.gob.ar/
+3,AR-X-JesusMaria,cuit:30-99912220-1,Municipalidad De Jesus Maria,48288,https://www.jesusmaria.gov.ar/
+4,AR-B-CoronelSuarez,cuit:30-99900223-0,Municipalidad De Coronel Suarez,269509,https://www.coronelsuarez.gob.ar/
+5,AR-B-SanMiguel,cuit:30-68161778-3,Municipalidad De San Miguel,1967802,https://www.msm.gov.ar/
+6,AR-B-Pergamino,cuit:30-99903451-5,Municipalidad De Pergamino,921239,https://www.pergamino.gob.ar/
+7,AR-B-Olavarria,cuit:30-99903413-2,Municipalidad De Olavarria,1004149,https://www.olavarria.gov.ar/
