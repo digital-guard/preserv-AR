@@ -51,7 +51,7 @@ layers:
   via:
     subtype: full
     method: shp2sql
-    file: 1
+    file: 3
     sql_select: ['nombre_cal = via_name','num_desde','num_hasta','tipo']
     orig_filename: Villa_Giardino_Ejes_de_Calle
     codec: SHP~Latin1
