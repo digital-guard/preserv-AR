@@ -21,44 +21,44 @@ layers:
     subtype: full
     method: shp2sql
     file: 1
-    sql_select: ['nombre AS nsvia_name']
+    sql_select: ['nombre AS nsvia']
     orig_filename: Villa_Giardino_Barrios
     codec: SHP~Latin1
     standardized_fields:
      - 
       name: nombre
-      standard: nsvia_name
+      standard: nsvia
 
   parcel:
     subtype: full
     method: shp2sql
     file: 2
-    sql_select: ['ubicacion','barrio as ns_name','calle = via_name','nro_puerta = howse_number']
+    sql_select: ['ubicacion','barrio AS nsvia','calle AS via','nro_puerta AS hnum']
     orig_filename: Villa_Giardino_Parcelas
     codec: SHP~Latin1
     standardized_fields:
      - 
       name: barrio
-      standard: ns_name
+      standard: nsvia
      - 
       name: calle
-      standard: via_name
+      standard: via
      - 
       name: nro_puerta
-      standard: howse_number
+      standard: hnum
 
 
   via:
     subtype: full
     method: shp2sql
     file: 3
-    sql_select: ['nombre_cal = via_name','num_desde','num_hasta','tipo']
+    sql_select: ['nombre_cal AS via','num_desde','num_hasta','tipo']
     orig_filename: Villa_Giardino_Ejes_de_Calle
     codec: SHP~Latin1
     standardized_fields:
      - 
       name: nombre_cal
-      standard: via_name
+      standard: via
     other_fields:
      - 
       name: num_desde
